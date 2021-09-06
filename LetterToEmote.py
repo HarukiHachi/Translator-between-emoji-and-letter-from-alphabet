@@ -1,4 +1,4 @@
-"""Project: this "Letter To Emote" file change every single character in your sentence to emote
+"""This "Letter To Emote" file change every single character in your sentence to emote
 -------- This will help you understand each character and emote meaning
     "a" = "😀"|| "b" = "😃"|| "c" = "😁"|| "d" = "😅"|| "e" = "🥰"|| "f" = "🤣"||
     "g" = "😥"|| "h" = "😬"|| "i" = "😊"|| "j" = "😛"|| "k" = "😇"|| "l" = "😉"||

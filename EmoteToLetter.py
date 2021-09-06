@@ -1,4 +1,4 @@
-"""Project: this "Emote to Letter" file change every single emote in your sentence to character
+"""This "Emote to Letter" file change every single emote in your sentence to character
 -------- This will help you understand each character and emote meaning
     "😀" : "a",
     "😃" = "b"|| "😁" = "c"|| "😅" = "d"|| "🥰" = "e"|| "🤣" = "f"|| "😥" = "g"||
